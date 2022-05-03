@@ -15,4 +15,8 @@
 ## SwiftUI Essentials - Handling User Input
 
 为每一个 item 添加一个我喜爱的标签，添加一个 Toggle 组件来切换是否只显示我喜爱的。
+
 在详情页添加我喜爱的标签，并且可以点击添加喜爱和取消。
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/18136549/166430195-f2c0ab1e-a6e5-482e-b01e-e7fa6c040824.gif">
+
