@@ -1,6 +1,6 @@
 # LearnSwiftUI
 
-## Creating and Combining Views
+## SwiftUI Essentials - Creating and Combining Views
 
 实现一个简单页面的组合，使用到了地图组件、图片、简单的排版。
 
