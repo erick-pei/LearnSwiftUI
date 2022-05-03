@@ -11,3 +11,8 @@
 从 json 文件中读取一列列表的数据，使用 List 组件展示改数据，并且可以跳转到各个 item 的详情页。
 
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/18136549/166422379-facddf7f-d9ca-4dcd-af2e-7c166fa7f4eb.gif">
+
+## SwiftUI Essentials - Handling User Input
+
+为每一个 item 添加一个我喜爱的标签，添加一个 Toggle 组件来切换是否只显示我喜爱的。
+在详情页添加我喜爱的标签，并且可以点击添加喜爱和取消。
