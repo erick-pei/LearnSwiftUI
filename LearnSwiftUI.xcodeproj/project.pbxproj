@@ -13,6 +13,8 @@
 		A73869062820DE30002F378C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73868F42820DE2D002F378C /* ContentView.swift */; };
 		A73869072820DE30002F378C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A73868F52820DE30002F378C /* Assets.xcassets */; };
 		A73869082820DE30002F378C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A73868F52820DE30002F378C /* Assets.xcassets */; };
+		A73869132820F94A002F378C /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73869122820F94A002F378C /* CircleImage.swift */; };
+		A73869152820F9E6002F378C /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73869142820F9E6002F378C /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A73868FA2820DE30002F378C /* LearnSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A73869002820DE30002F378C /* LearnSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A73869022820DE30002F378C /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		A73869122820F94A002F378C /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		A73869142820F9E6002F378C /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +49,7 @@
 		A73868ED2820DE2D002F378C = {
 			isa = PBXGroup;
 			children = (
+				A73869112820F934002F378C /* Views */,
 				A73868F22820DE2D002F378C /* Shared */,
 				A73869012820DE30002F378C /* macOS */,
 				A73868FB2820DE30002F378C /* Products */,
@@ -76,6 +81,15 @@
 				A73869022820DE30002F378C /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		A73869112820F934002F378C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A73869122820F94A002F378C /* CircleImage.swift */,
+				A73869142820F9E6002F378C /* MapView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -177,7 +191,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A73869052820DE30002F378C /* ContentView.swift in Sources */,
+				A73869152820F9E6002F378C /* MapView.swift in Sources */,
 				A73869032820DE30002F378C /* LearnSwiftUIApp.swift in Sources */,
+				A73869132820F94A002F378C /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
