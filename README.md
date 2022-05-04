@@ -28,3 +28,11 @@
 
 使用动画的各种属性来熟悉如何通过编码来实现动画
 
+## App Design and Layout - Composing Complex Interfaces
+
+使用 NavigationView 来布局页面
+
+使用 NavigationLink 来实现跳转
+
+使用 TabView 来实现页面下方的 Tab 按钮
+
