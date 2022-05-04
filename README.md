@@ -26,13 +26,21 @@
 
 ## Drawing and Animation - Animating Views and Transitions
 
-使用动画的各种属性来熟悉如何通过编码来实现动画
+使用动画的各种属性来熟悉如何通过编码来实现动画。
 
 ## App Design and Layout - Composing Complex Interfaces
 
-使用 NavigationView 来布局页面
+使用 NavigationView 来布局页面。
 
-使用 NavigationLink 来实现跳转
+使用 NavigationLink 来实现跳转。
 
-使用 TabView 来实现页面下方的 Tab 按钮
+使用 TabView 来实现页面下方的 Tab 按钮。
+
+## App Design and Layout - Working with UI Controls
+
+添加一个个人中心的页面，包含各种组件，并且可以对这些组件的内容进行编辑。
+
+## Framework Intergration - Interfacing with UIKit
+
+使用 UIKit 框架来实现一个图片轮播的效果
 
