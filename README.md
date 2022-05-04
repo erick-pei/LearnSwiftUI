@@ -20,3 +20,11 @@
 
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/18136549/166430195-f2c0ab1e-a6e5-482e-b01e-e7fa6c040824.gif">
 
+## Drawing and Animation - Drawing Paths and Shapes
+
+使用 Path 来画图
+
+## Drawing and Animation - Animating Views and Transitions
+
+使用动画的各种属性来熟悉如何通过编码来实现动画
+
