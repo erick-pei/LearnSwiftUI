@@ -53,5 +53,5 @@
 
 使用 UIKit 框架来实现一个图片轮播的效果
 
-![swiftui008](https://user-images.githubusercontent.com/18136549/166853263-b2a2c47d-d285-4ccc-a7bb-c055c1c175b9.gif)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/18136549/166853263-b2a2c47d-d285-4ccc-a7bb-c055c1c175b9.gif">
 
